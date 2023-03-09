@@ -1,0 +1,5 @@
+/Users/cuihang/Desktop/code/lemon-parser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cuihang/Desktop/code/lemon-parser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/cuihang/Desktop/code/lemon-parser/cmake-build-debug/src/CMakeFiles/main.dir
+/Users/cuihang/Desktop/code/lemon-parser/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/cuihang/Desktop/code/lemon-parser/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
